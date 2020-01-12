@@ -1,7 +1,9 @@
 body {
-	background-color: #232323;
+	background-color: whitesmoke;
 	margin: 0;
-	font-family: "Montserrat", "Avenir";
+	/* font-family: "Montserrat", "Avenir"; */
+	font-family: 'Roboto', sans-serif;
+
 }
 
 .square {
@@ -33,12 +35,13 @@ h1 {
 }
 
 #colorDisplay {
-	font-size: 200%;
+	font-size: 120%;
 }
 
 #message {
 	display: inline-block;
 	width: 20%;
+	color: steelblue;
 }
 
 #stripe {
